@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="7" build="2"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value="Tag(DETECTTHOUGHTS);ActionResource(Attunement,3,0);ActionResource(Movement,9,0)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Dentalidrin"/>
+                    <attribute id="PassivesAdded" type="LSString" value="SuperiorDarkvision;NaturalCharmer;Insomnis;Shapechanger;UltimaGoetia;Goetia_ProficiencyBonus"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(1110bd19-00b7-49f3-b803-7518159bfdc1,5,5,OriginAbilityScoreIncrease)"/>
+                    <attribute id="TableUUID" type="guid" value="5eea80af-7c36-4bc8-a881-167dc94ddb83"/>
+                    <attribute id="UUID" type="guid" value="f9b3f0ce-7aef-4d74-a1b6-ff9389debd87"/>
+                </node>
+
+
+
+
+
+
+
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="67"/>
+    <region id="CharacterCreationAppearanceVisuals">
+        <node id="root">
+            <children>
+
+<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
+<!------------------ Dentalidrin Face Male ------------------->
+<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="Shared_CharacterCreationAppearanceVisuals_New_Stat_226_DisplayName"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="RootTemplate" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="b5cf9885-b9bf-4dfd-8775-3ee8ae1ffbb5"/>
+                    <attribute id="VisualResource" type="guid" value="eac75fda-3c3f-0f31-fd25-aae7d66b2a72"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="Shared_CharacterCreationAppearanceVisuals_New_Stat_226_DisplayName"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="679948ef-5a6b-4514-b344-5adc0faf8e88"/>
+                    <attribute id="VisualResource" type="guid" value="eac75fda-3c3f-0f31-fd25-aae7d66b2a72"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="Shared_CharacterCreationAppearanceVisuals_New_Stat_225_DisplayName"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="e6d8885c-ef66-4214-8738-0bc8dcc6c5d9"/>
+                    <attribute id="VisualResource" type="guid" value="82dff30d-a17d-2284-42fe-fdc403a2a12d"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="Shared_CharacterCreationAppearanceVisuals_New_Stat_222_DisplayName"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="6c8c605d-18fa-43b7-a00e-acd5b0f046a7"/>
+                    <attribute id="VisualResource" type="guid" value="adccb401-483d-3157-5849-93a6dc94fd0f"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="Shared_CharacterCreationAppearanceVisuals_New_Stat_27_DisplayName"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="aa0324c2-089e-4491-b89b-bb07cc1150c7"/>
+                    <attribute id="VisualResource" type="guid" value="faa673b5-f204-5b69-02c8-c3678ec7bd47"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="Shared_CharacterCreationAppearanceVisuals_New_Stat_227_DisplayName"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="ca3a1da4-f3bd-4aa8-8e13-2a37234e5b28"/>
+                    <attribute id="VisualResource" type="guid" value="2fc84716-29c8-f8ce-3f47-ea9b1f00b8f4"/>
+                </node>				
+
+
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="★ KT Lumaris"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="a60f0fdf-783d-4e30-abd7-056923c4400d"/>
+                    <attribute id="VisualResource" type="guid" value="921315f2-eb42-401b-b3ed-5f3aea3721c8"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="★ KT Adren"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="93b9ad0a-4b03-4594-918f-89b1c4254f50"/>
+                    <attribute id="VisualResource" type="guid" value="4f781233-89ec-4cc3-bb60-462439bf26dd"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="★ KT Edward Vampire"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="f933980f-f2ac-493b-bef5-3d831d50fe59"/>
+                    <attribute id="VisualResource" type="guid" value="026ef29a-5ba0-4784-9db5-68710cf1fb3a"/>
+					</node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="★ KT Elkas"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="2f3ddc69-7281-481b-846a-64a54854dc28"/>
+                    <attribute id="VisualResource" type="guid" value="02403d2a-5f44-4853-9888-867677ab04ef"/>
+                </node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Philomena"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="795f5268-02a5-4f9c-b436-2353fc859ce5"/>
+		<attribute id="VisualResource" type="guid" value="2133270d-2a92-4dd1-ae4c-b8b753b1b08d"/>
+		</node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="★ KT Rolim"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="0d067099-714a-4f46-b611-7a4493e61ea0"/>
+                    <attribute id="VisualResource" type="guid" value="16dcfb0d-0f32-44d6-9ce8-e91331f1320b"/>
+					</node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="★ KT Severinus"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="0206c8e1-8659-4e60-93aa-57914392d653"/>
+                    <attribute id="VisualResource" type="guid" value="194962ea-c757-44a7-bac2-8f19fd98aabd"/>
+					</node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="★ KT Tapio"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="4793901e-35bf-4742-98ab-9ba9870c8cfe"/>
+                    <attribute id="VisualResource" type="guid" value="438f2349-3596-4128-8089-34e37de442f5"/>
+		  </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="★ KT Ilvisar"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="7c4527e5-aecc-4df5-9e53-0428dc963b86"/>
+                    <attribute id="VisualResource" type="guid" value="96fc82e2-f254-4d91-aa58-88e22bfce7d9"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="★ KT Aranmil"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="59536583-6d54-48a1-91ac-b84b60944a3f"/>
+                    <attribute id="VisualResource" type="guid" value="73147b12-bda9-4eed-b88e-8105697e70c3"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="★ KT Timothee"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="64d39efc-1214-4a0f-9fa2-6cc390f074ea"/>
+                    <attribute id="VisualResource" type="guid" value="6cd71753-8401-4939-a93a-40a7af37b805"/>
+                </node>
+
+
+
+<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
+<!------------------ Dentalidrin Face Female  ------------------->
+<!--<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>-->
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="Shared_CharacterCreationAppearanceVisuals_New_Stat_133_DisplayName"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="f3d1c7c3-d503-4d61-bf98-a180ba1ac47a"/>
+                    <attribute id="VisualResource" type="guid" value="8f3a2615-5c2b-e5ec-596e-c1b50a07f9f6"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="Shared_CharacterCreationAppearanceVisuals_New_Stat_134_DisplayName"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="aa119248-f549-4cb7-b6eb-5d28c5efed2c"/>
+                    <attribute id="VisualResource" type="guid" value="89909f69-a144-64a5-dddc-ef1d15b505a0"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="Shared_CharacterCreationAppearanceVisuals_New_Stat_29_DisplayName"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="8375a4f2-a75e-44a3-afb4-5167434eb05d"/>
+                    <attribute id="VisualResource" type="guid" value="03478e3b-7a8b-df41-64b2-4ee602609cf3"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="Shared_CharacterCreationAppearanceVisuals_New_Stat_135_DisplayName"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="ee6ad055-456e-447a-bc9c-6462e06def01"/>
+                    <attribute id="VisualResource" type="guid" value="882cd087-83d0-af33-6198-633cf22334f6"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="Shared_CharacterCreationAppearanceVisuals_New_Stat_755_DisplayName"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="1d3a05a9-ee0e-4eab-b5da-71ba0a76448f"/>
+                    <attribute id="VisualResource" type="guid" value="a0373fe8-506b-cb46-24b0-9f4c12813d8c"/>
+                </node>
+
+
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Rianna"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="3dca9d17-b3e3-4bfd-a334-adea2c383c01"/>
+                    <attribute id="VisualResource" type="guid" value="5304e34c-ec13-4c57-8d18-2d1e02f89cb7"/>
+					</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Ravabella"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="77031650-0bb8-4261-8666-81960c4a37ed"/>
+                    <attribute id="VisualResource" type="guid" value="ba7410a7-17a6-4ab4-8597-61ec5e565076"/>
+					</node>                    
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Faebellis"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="6d0400f7-448b-49c3-b998-3821b9f7ea6d"/>
+                    <attribute id="VisualResource" type="guid" value="f8383eb2-e130-48ad-96f1-f88648a90012"/>
+					</node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Phila"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="71236921-ac63-4dc0-a015-cf6d5cf758e9"/>
+                    <attribute id="VisualResource" type="guid" value="d8b57714-af90-4d67-b203-655f1d0f0cea"/>
+					</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Sharieth"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="f6ed4388-e610-44e0-a9b5-8bc1f9db9cf0"/>
+		<attribute id="VisualResource" type="guid" value="7c7d4178-48db-457a-89d6-1a7e0850fe22"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Sari"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="4a5dfe55-8d1f-4801-825f-9c1896a77815"/>
+		<attribute id="VisualResource" type="guid" value="cf20e2cd-8a6e-4b64-9d69-60d8c61b6629"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Tuulikki"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="3ad6b8b5-2fa9-4b3d-ba00-74629df6edb6"/>
+		<attribute id="VisualResource" type="guid" value="3ac7c38c-e8ee-4d04-85ad-0aba5f6af4eb"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Mialee"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="e426f4c4-42ef-4ef9-9ace-4d8524029707"/>
+		<attribute id="VisualResource" type="guid" value="c049886c-f30b-4c60-8ce6-ce5d17e64434"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Drusila"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="a3816c76-c244-44f8-89d2-785c8d616c25"/>
+		<attribute id="VisualResource" type="guid" value="9b863f37-be18-4de0-9335-3920a144de48"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Laila"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="006ebf26-4ffc-41b3-99fc-591c22d4d59d"/>
+		<attribute id="VisualResource" type="guid" value="e4160c43-c215-4a98-a2fa-7e677abdea4e"/>
+		</node>        
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Leilatha"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="59cc8e96-f016-47ab-810b-1994c568c3e5"/>
+		<attribute id="VisualResource" type="guid" value="85cb3204-3ae2-46e0-84b7-f92ee03986ec"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Talila"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="13a30c39-f2cc-4e72-9e4c-41a1067f3d4d"/>
+		<attribute id="VisualResource" type="guid" value="47db12de-3078-456b-94f5-0a57536ecd23"/>
+		</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Quetihne"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="468a2ecf-860b-43cc-80f0-63314adf1c1b"/>
+                    <attribute id="VisualResource" type="guid" value="6bd5203d-3072-44d5-a7f0-2c651e7e1d7a"/>
+					</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Yavanna"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="65d82316-8563-4ea1-b785-55411b09d4df"/>
+		<attribute id="VisualResource" type="guid" value="3ad37a2d-fa41-4603-885c-665d4d3894e5"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT KeyArt Shadowheart"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="2afba7a3-72ab-43f3-89eb-d7a599c0413e"/>
+		<attribute id="VisualResource" type="guid" value="f5f14db8-84b8-433f-8f2a-83a6882fb6ef"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Inalana"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="7e4a0c41-d634-4dc4-9500-f00bed8217c4"/>
+		<attribute id="VisualResource" type="guid" value="867f2e18-beeb-4779-bb8e-27f073a28d28"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Faerie"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="9be5295a-bf34-404c-8ce7-afdbdf4fa09e"/>
+		<attribute id="VisualResource" type="guid" value="72f25ceb-e0e6-4a5d-b3d4-4e370826839c"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Fate"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="961214df-6a83-479d-a34f-83e42377ec5e"/>
+		<attribute id="VisualResource" type="guid" value="819f3ac0-13f2-437d-8ec2-cb9f2cce6877"/>
+		</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Primiphi"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="3136c88c-0aaa-450b-9e26-8d28b2d5e8d4"/>
+                    <attribute id="VisualResource" type="guid" value="2a7fa11f-b5c6-4040-a384-4e579d4fa1bf"/>
+					</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Rina"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="c6276d2a-7475-463c-8716-21613ec70ec5"/>
+                    <attribute id="VisualResource" type="guid" value="e0352bac-690f-4d7a-92de-779142ba321e"/>
+					</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Torra"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="b0815213-ada2-4a4b-a298-d3cc6a91ba33"/>
+                    <attribute id="VisualResource" type="guid" value="6aa2d82d-9678-442b-91ea-678fbbc599dd"/>
+					</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Torra Vampire"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="2db20dc8-ea4d-461c-a062-1ca3bd0a4032"/>
+                    <attribute id="VisualResource" type="guid" value="a1c5eb59-7f68-4c0a-a9b5-c91ee81c66f8"/>
+					</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Valra"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="7f8d45d7-3287-46d5-a5ee-54adb7caabbe"/>
+                    <attribute id="VisualResource" type="guid" value="27166c69-d8d0-4710-9716-e07bc5980e4e"/>
+					</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Valra Vampire"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="ca6dfc45-d2eb-46ce-b5dc-02d755beac3d"/>
+                    <attribute id="VisualResource" type="guid" value="89785d82-0e21-4af8-92fd-739ad1fb8c88"/>
+					</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Queenyphe"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="dd0371c3-53f1-45b6-9282-2e8378de9b83"/>
+                    <attribute id="VisualResource" type="guid" value="5c2cf775-af10-490f-b292-8005d296122e"/>
+					</node>                    
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Saelwaris"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="bddc3d4b-be47-4cc3-a5d7-6bc5bc685506"/>
+                    <attribute id="VisualResource" type="guid" value="6d2c21f9-f872-4451-9686-ad8385174159"/>
+					</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Trisna"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="8b6a8a37-6bfc-4ea7-bf70-da2251930b3e"/>
+		<attribute id="VisualResource" type="guid" value="cbe3a200-448d-4bb0-90f5-7e6de011ae8d"/>
+		</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Eilonwy"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="85476e98-890c-44fe-b272-f901a1f00ecb"/>
+                    <attribute id="VisualResource" type="guid" value="5e7e5cfc-3b15-4a50-948e-9491a245e5be"/>
+					</node>        
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Aurnoore"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="c49be8ee-68d4-4d22-855b-a351f5181823"/>
+                    <attribute id="VisualResource" type="guid" value="445759b3-055a-466e-a234-c3e01d88eae0"/>
+					</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Sonja"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="41c34228-4f86-424d-9461-8f9e7c6a8663"/>
+		<attribute id="VisualResource" type="guid" value="48b5f6e5-a671-445c-900c-e093d5df97cb"/>
+		</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Annikki"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="0e657d1f-df39-4cad-a8f4-a3af591df6e7"/>
+                    <attribute id="VisualResource" type="guid" value="8ddf6fcb-9271-4ef0-805b-8724aa597554"/>
+					</node>        
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Lilna"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="f26f246c-3453-46ed-9e63-b3d7edcaad59"/>
+                    <attribute id="VisualResource" type="guid" value="0524a878-75d2-4e87-968b-67756ab50f0e"/>
+												</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Breena"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="85b7f67c-6988-4b43-ad2b-5513088aaa2b"/>
+		<attribute id="VisualResource" type="guid" value="110dc420-459e-46b8-8e66-8e54c5238559"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Valrora"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="a18fbda0-1261-4a7b-8e1c-288d8ec4570e"/>
+		<attribute id="VisualResource" type="guid" value="1fe00651-157c-4f62-85f8-e9c9b65f96bd"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Eliyra"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="a8cc02dc-ca2d-47ae-ac8a-cacac8c5fb19"/>
+                    <attribute id="VisualResource" type="guid" value="686ba9d4-5cbe-4c17-9aba-8cbba0658d65"/>
+					</node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Eliyra ALT"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="41ac1d0b-cc8c-4903-b004-f03087973575"/>
+                    <attribute id="VisualResource" type="guid" value="4661f6be-3c1d-4547-9277-6efe379cf479"/>
+					</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Iarna"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="58d3f817-be9e-470f-ba05-020e455f16e9"/>
+                    <attribute id="VisualResource" type="guid" value="706c56f5-4036-4d9d-b25f-51d16b3197c5"/>
+					</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Iarna Vampire"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="92890990-d996-49ef-94b7-0e44abbd4575"/>
+                    <attribute id="VisualResource" type="guid" value="7d66d974-4481-4244-8d14-4b32d120ab16"/>
+					</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Tuiia"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="b3169d1a-4ab5-4670-8947-b4ec91302127"/>
+		<attribute id="VisualResource" type="guid" value="15459f96-c884-4812-afa1-517242f51fca"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Immeril"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="22d3063c-7eaa-4e60-8f7e-a335c164e893"/>
+		<attribute id="VisualResource" type="guid" value="4d2449e1-2c76-4539-9895-e51e0d765f32"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Legacy"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="82203d4b-af79-437a-b26f-08ecac8807ff"/>
+		<attribute id="VisualResource" type="guid" value="17fa7787-c17f-48db-b418-d6b34b679620"/>
+		</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Sylrie"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="5e515dea-7e21-4d3c-afdf-4e373cd6fb89"/>
+                    <attribute id="VisualResource" type="guid" value="8a71b622-6982-42e2-8e35-2ed95c5e1ba1"/>
+					</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Velanna"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="d1df7841-b8e7-4dce-aa1f-5af02849f241"/>
+		<attribute id="VisualResource" type="guid" value="2afe3e7f-5e89-4388-8ea0-e4fe650bbfb9"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Taenya"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="99cb83d4-84cf-49ef-a589-3234d5950382"/>
+		<attribute id="VisualResource" type="guid" value="8200a005-d4cf-44d6-b3eb-c4b5854239e6"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Merrill"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="7fdac3fa-de81-4e53-89ac-4f8e5f8232d4"/>
+		<attribute id="VisualResource" type="guid" value="d0681082-1c76-4a82-8bae-f32c07dfb5c9"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Zylfina"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="4d08d5eb-1c9b-430a-a659-8e1facd864b6"/>
+		<attribute id="VisualResource" type="guid" value="309d66b9-8930-4887-b32a-54b51ebcce9d"/>
+		</node>        
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Bryra"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="651a37af-be95-4be7-aa64-309f397a0b47"/>
+                    <attribute id="VisualResource" type="guid" value="c95a897b-4e56-4c35-9695-ef6d96c04947"/>
+					</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Tylbellis"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="25ed8f30-808d-41de-938f-7cd05902d342"/>
+                    <attribute id="VisualResource" type="guid" value="fb390332-2b31-44d7-96ec-b6aa942f82d6"/>
+												</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Miritar"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="eb17c4ed-7e60-4bf7-bbb8-a3d06eef214f"/>
+		<attribute id="VisualResource" type="guid" value="9a02be08-e80d-45f7-b098-5812e41bf7f7"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Miritar No Freckles"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="93bb8c79-2968-4139-b481-9cb54d123f4d"/>
+		<attribute id="VisualResource" type="guid" value="2ae45e11-736b-4f43-94e3-bc334de4c885"/>
+		</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Tifayore"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="6a4a09b4-af18-43a5-abe3-c47ca5072951"/>
+                    <attribute id="VisualResource" type="guid" value="e2556de7-05d5-47a4-9e34-71c379fce6bd"/>
+					</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Halita"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="ff2d0545-3169-4c4c-9cbf-11c11e525922"/>
+		<attribute id="VisualResource" type="guid" value="c7d5a1f5-cc5e-483a-be75-528bef0aaa04"/>
+		</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Halita Freckles"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="b80e622c-7e3e-4a30-9f95-206a13e9ac5b"/>
+		<attribute id="VisualResource" type="guid" value="afdde9e9-65f4-48a1-bdc5-61f4e344e845"/>
+		</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Enna"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="5ab76a46-d925-40dc-bc53-1802712dd7dd"/>
+                    <attribute id="VisualResource" type="guid" value="700a7379-4211-4671-b861-f11c7b309cf0"/>
+					</node>        
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Banmyn"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="07836ec9-32a4-45e9-b311-60df1fb4f9d5"/>
+                    <attribute id="VisualResource" type="guid" value="d582b0d9-3a8f-42c6-8703-c411fbf7c86e"/>
+					</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Phidove"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="8cf6145f-c153-48e2-8225-7ca1af2fd358"/>
+		<attribute id="VisualResource" type="guid" value="53830f21-3763-480f-8545-e508064077a6"/>
+		</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Aeris"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="8581d787-3729-4f93-aacf-8eabd6567bd5"/>
+                    <attribute id="VisualResource" type="guid" value="9192e6c9-7649-4afd-9566-fe42d49d9052"/>
+					</node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Tifa"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="8614b9dd-4697-4e52-903f-dd011c9aecee"/>
+                    <attribute id="VisualResource" type="guid" value="7c0c535c-e3f9-4745-9723-aa5247ceecb4"/>
+					</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Phigella"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="df3a5829-80ff-405a-865e-a28618ff2aff"/>
+                    <attribute id="VisualResource" type="guid" value="9d42ebbe-8cf5-49f8-be99-9fd2c5b525bc"/>
+					</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Yllalee"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="a7ec9774-8002-4c85-a749-cbf11a3d19ea"/>
+                    <attribute id="VisualResource" type="guid" value="7d6bfae8-1996-4faf-be79-13b780982d12"/>
+					</node>                    
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Ararieth"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="4543041c-8d23-46bc-acd2-4404bae4ae84"/>
+                    <attribute id="VisualResource" type="guid" value="dee591e3-1f37-41a6-93b3-87d612d2781e"/>
+					</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Inastina"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="47d58a4d-e940-40e5-8162-229676b935c1"/>
+                    <attribute id="VisualResource" type="guid" value="8ac7cda4-e16b-4829-a06f-015bbf21ae02"/>
+					</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Daesys"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="fdf2f7a1-bbb9-4a1a-b1e3-e3b884816374"/>
+		<attribute id="VisualResource" type="guid" value="efdbf3b5-8de3-4dba-af1d-7f865987209c"/>
+		</node>
+					<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="DisplayName" type="FixedString" value="* KT Sylbella"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="a35dfdde-cd5c-42e3-8d7e-232939f5e1f1"/>
+                    <attribute id="VisualResource" type="guid" value="0c1d8f77-2bb3-48bc-93d4-8069677469c2"/>
+					</node>
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Lilall"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="2275a975-1267-484c-8fc5-fd438f191dcb"/>
+		<attribute id="VisualResource" type="guid" value="800f1dea-de6f-4e15-a619-a91b209a00c0"/>
+		</node>                    
+		<node id="CharacterCreationAppearanceVisual">
+		<attribute id="DisplayName" type="FixedString" value="* KT Iiris"/>
+		<attribute id="BodyType" type="uint8" value="1"/>
+		<attribute id="RaceUUID" type="guid" value="fb9c4c00-6b37-4f4b-aef2-7cbd7e71c193"/>
+		<attribute id="SlotName" type="FixedString" value="Head"/>
+		<attribute id="UUID" type="guid" value="a6080952-3f6b-4ff8-a9f4-7bd5e6650000"/>
+		<attribute id="VisualResource" type="guid" value="b6eba987-eff1-4fa5-9468-2df074acc5d3"/>
+		</node>
+            </children>
+        </node>
+    </region>
+</save>
+
+

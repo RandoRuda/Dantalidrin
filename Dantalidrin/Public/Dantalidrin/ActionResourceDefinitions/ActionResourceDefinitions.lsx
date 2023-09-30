@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="5" build="300"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="FixedString" value="Some magic items require a creature to form a bond with them before their magical Properties can be used. This bond is called attunement, and certain items have a prerequisite for it. If the prerequisite is a class, a creature must be a member of that class to attune to the item. "/>
+                    <attribute id="DiceType" type="uint32" value="0"/>
+                    <attribute id="DisplayName" type="FixedString" value="Attunement"/>
+                    <attribute id="Error" type="FixedString" value="Shared_ActionResourceDefinitions_New_Stat_15_Error"/>
+                    <attribute id="IsSpellResource" type="bool" value="false"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="Attunement"/>
+                    <attribute id="PartyActionResource" type="bool" value="false"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Never"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="a048e9e6-0b40-4dd6-99bb-01b5474320fd"/>
+                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="FixedString" value="You can’t cast that spell with it or use this trait again until you finish a long rest."/>
+                    <attribute id="DiceType" type="uint32" value="0"/>
+                    <attribute id="DisplayName" type="FixedString" value="Trait"/>
+                    <attribute id="Error" type="FixedString" value="Shared_ActionResourceDefinitions_New_Stat_17_Error"/>
+                    <attribute id="IsSpellResource" type="bool" value="false"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="Trait"/>
+                    <attribute id="PartyActionResource" type="bool" value="false"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="fasle"/>
+                    <attribute id="UUID" type="guid" value="58c160c9-2fbc-4e3e-a7b4-65d9b13d49de"/>
+                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/>
+                </node>                
+            </children>
+        </node>
+    </region>
+</save>

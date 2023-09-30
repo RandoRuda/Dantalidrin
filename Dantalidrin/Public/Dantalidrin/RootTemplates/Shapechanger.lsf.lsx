@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="7" build="2" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="bdeebe6f-4e34-ae70-5f25-ea0eadb77a34" />
+					<attribute id="Faction" type="guid" value="6545a015-1b3d-66a4-6a0e-6ec62065cdb7" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="bdeebe6f-4e34-ae70-5f25-ea0eadb77a34-EQ_Wyll_(Icon_Human_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="463f8be1-4901-41ff-a964-8066489c284a" />
+					<attribute id="Name" type="LSString" value="Wyll" />
+					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroHumanMale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241814" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-8df8-ab107ccb0d37" />
+								</node>
+							</children>
+						</node>
+						<node id="TradeTreasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="Treasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="9ab62da4-a028-c237-b5b9-ca897f62b771" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="9ab62da4-a028-c237-b5b9-ca897f62b771-EQ_Shadowheart_(Icon_HalfElf_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="8c2d4bc9-1c04-4694-8a9d-dff5eb25ea87" />
+					<attribute id="Name" type="LSString" value="Shadowheart" />
+					<attribute id="ParentTemplateId" type="FixedString" value="055f12f5-eb99-4893-9913-c22f36d233a8" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroHalfElfFemale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-8df8-ab107ccb0d37" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="182c51c7-8760-9bfa-485e-de7be272b71d" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="be9fbfe1-cf9c-7864-55d3-bbd6d329150b-EQ_Astarion_(Icon_Elf_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="6b64cb9d-fa30-4fc7-9e4c-12a4a3b97cee" />
+					<attribute id="Name" type="LSString" value="Astarion" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f0930afd-8be6-410e-bae3-b0253262f861" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroElfMale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-8df8-ab107ccb0d37" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="62d788a1-f777-4608-8ee1-55325ccf3360" />
+					<attribute id="Faction" type="guid" value="6545a015-1b3d-66a4-6a0e-6ec62065cdb7" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="62d788a1-f777-4608-8ee1-55325ccf3360-EQ_Gale_(Icon_Human_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="b13bd15c-1ab6-45a2-84ba-c96a9cbb40ae" />
+					<attribute id="Name" type="LSString" value="Gale" />
+					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroHumanMale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241814" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-8df8-ab107ccb0d37" />
+								</node>
+							</children>
+						</node>
+						<node id="TradeTreasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="Treasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="1088f4ee-579b-b49e-72cc-7ecc5fc5be79" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="1088f4ee-579b-b49e-72cc-7ecc5fc5be79-EQ_Laezel_(Icon_Githyanki_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="1db037aa-7636-4370-a076-8eb4f64cb37c" />
+					<attribute id="Name" type="LSString" value="Laezel" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5fd99058-5221-4ca9-81d2-53d010cb277e" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroGithFemale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-8df8-ab107ccb0d37" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="39d59978-8a65-a8ec-6e8b-0d391f4035e3" />
+					<attribute id="Icon" type="FixedString" value="39d59978-8a65-a8ec-6e8b-0d391f4035e3-EQ_Karlach_(Icon_Human_Female_Strong)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="52ac27bd-3424-4468-9b23-17f86057f92d" />
+					<attribute id="Name" type="LSString" value="Karlach" />
+					<attribute id="ParentTemplateId" type="FixedString" value="8d9024d8-ac09-4745-b04f-793595ea94c3" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroTieflingFemale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-8df8-ab107ccb0d37" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

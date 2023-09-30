@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="7" build="2" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects"><!--Dantalidrin Male-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="3b1201cf-e9b3-448a-a63c-5bb2ed6537f1" />
+					<attribute id="Icon" type="FixedString" value="127ae5d8-a7bd-0498-1d71-4e479d247922-_(Icon_Tiefling_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="cc864751-b0c0-4610-bb31-a457696b546e" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4eb632fa-e07f-495e-9788-c59f16f43e21" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroTieflingMale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241814" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-f88d-10abcb7c370d" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects"><!--Dantalidrin Female-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="c6bfd83f-04b6-484c-9bcc-f7adf65ff988" />
+					<attribute id="Icon" type="FixedString" value="4d42fb67-449d-1c13-8661-09610d477183-_(Icon_Tiefling_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ee95541f-01f7-424a-968b-73c33baf1efc" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="8d9024d8-ac09-4745-b04f-793595ea94c3" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroTieflingFemale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-f88d-10abcb7c370d" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
